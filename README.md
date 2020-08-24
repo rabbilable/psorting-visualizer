@@ -27,3 +27,7 @@ Pass function name as a command line argument from list of functions above
 **For example:** 
 
 ```python visualizer.py SelectionSort```
+
+
+
+Thanks to: https://dev.to/kgprajwal/build-a-sorting-visualizer-in-python-2oej
