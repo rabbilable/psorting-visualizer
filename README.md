@@ -30,4 +30,3 @@ Pass function name as a command line argument from list of functions above
 
 
 <br> <br>
-Thanks to: https://dev.to/kgprajwal/build-a-sorting-visualizer-in-python-2oej
